@@ -119,7 +119,7 @@
     "9": "memory add {categoria}",
     "10": "{mensaje}"
   },
-  "INVITE": "Para invitar a OrioBot a tu servidor haz [click aquí](https://discord.com/api/oauth2/authorize?client_id=828771710676500502&permissions=259844861815&redirect_uri=https%3A%2F%2Fdiscord.gg%2FEFPn63xVU7&scope=bot%20applications.commands) <a:corazonmulticolor:836295982768586752>",
+  "INVITE": "Para invitar a OrioBot a tu servidor haz [click aquí](https://discord.com/api/oauth2/authorize?client_id=909510763083870218&permissions=8&scope=bot)<:CorazonMC:844685525272363018>",
   "TRAIN": {
     "1": "Debes de entrenar con un input y output antes. Please, follow this structure: ",
     "2": "memory add {categoría}",
@@ -474,7 +474,7 @@
     "7": "El emoji no puede superar los 256kb de tamaño.",
     "8": "Has llegado al máximo de emoticonos disponibles."
   },
-  "VOTE": "Usa este enlace para votar a OrioBot: \n<https://discordthings.com/bot/828771710676500502>",
+  "VOTE": "Usa este enlace para votar a OrioBot: \n<https://new.orioland.com/vote>",
   "RANKING": {
     "1": "Cogiendo las estadísticas de la base de datos...",
     "2": "<:shopblurple:863983092658208791> Tabla de clasificación"

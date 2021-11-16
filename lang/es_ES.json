@@ -119,7 +119,7 @@
     "9": "memory add {categoria}",
     "10": "{mensaje}"
   },
-  "INVITE": "Para invitar a OrioBot a tu servidor haz [click aquí](https://discord.com/api/oauth2/authorize?client_id=909510763083870218&permissions=8&scope=bot) \<:CorazonMC:844685525272363018>",
+  "INVITE": "Para invitar a OrioBot a tu servidor haz [click aquí](https://discord.com/api/oauth2/authorize?client_id=909510763083870218&permissions=8&scope=bot) <:CorazonMC:844685525272363018>",
   "TRAIN": {
     "1": "Debes de entrenar con un input y output antes. Please, follow this structure: ",
     "2": "memory add {categoría}",
