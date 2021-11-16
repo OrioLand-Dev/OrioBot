@@ -1,7 +1,7 @@
 > **⚠ AVISO ⚠**  
 > Este bot es un fork de Node por lo que la base del codigo ha sido creada por [LyricalString](https://github.com/LyricalString) 😄
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="🤖 Node" src="https://i.goopics.net/52j27r.jpg">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="🤖 Node" src="https://i.ibb.co/wNhBGyv/logo-3.png">  
 
 # OrioBot
 
