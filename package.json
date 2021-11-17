@@ -1,7 +1,7 @@
 {
-  "name": "nodebot",
+  "name": "OrioBot",
   "version": "1.0.0",
-  "description": "Node es un bot multifunción, multilenguaje, programado en Discord.js y Mongoose por LyricalString.",
+  "description": "Orio es un bot multifunción, multilenguaje, programado en Discord.js y Mongoose por El Equipo De OrioLand y LyricalString.",
   "main": "index.js",
   "dependencies": {
     "@discordjs/voice": "^0.5.6",
@@ -105,12 +105,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LyricalString/Node.git"
+    "url": "git+https://github.com/andiricum2/OrioBot.git"
   },
-  "author": "lyricalstring",
+  "author": "Orio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LyricalString/Node/issues"
+    "url": "https://github.com/andiricum2/OrioBot/issues"
   },
-  "homepage": "https://github.com/LyricalString/Node#readme"
+  "homepage": "https://github.com/andiricum2/OrioBot#readme"
 }
