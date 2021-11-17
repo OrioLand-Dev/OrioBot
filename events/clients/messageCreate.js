@@ -860,7 +860,7 @@ module.exports = class messageCreate extends Event {
 							return message.channel.send({ embeds: [errorembed] })
 						}
 					} else {
-						return message.channel.send("Hubo un error en la caché. Por favor repórtelo en el servidor de soporte ( <https://support.nodebot.xyz> )");
+						return message.channel.send("Hubo un error en la caché. Por favor repórtelo en el servidor de soporte ( <https://discord.orioland.com> )");
 					}
 				} else return;
 			}
