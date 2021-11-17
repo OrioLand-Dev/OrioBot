@@ -5,8 +5,6 @@
 
 # OrioBot
 
-[![](https://img.shields.io/github/languages/top/andiricum2/OrioBot)](https://bot.orioland.com)
-
 > Este bot es usado por más de 500 usuarios de Discord.
 OrioBot es un bot multifunción, multilenguaje, programado en [Discord.js](https://discord.js.org) y [Mongoose](https://mongoosejs.com/docs/api.html) por [LyricalString](https://github.com/LyricalString) y por [el equipo de OrioLand](https://new.orioland.com).  
 ¡Añade una ⭐ al repositorio para promocionar el proyecto!
