@@ -159,7 +159,7 @@ async function updateStatus(client2) {
 	const totalGuilds2 = guildNum2.reduce((total, shard) => total + shard, 0);
 
 	await client2.user.setActivity(
-		" Servidores: " + totalGuilds2 + ` Miembros: ${totalMembers2} || o!help`, {
+		"o!help", {
 		type: "PLAYING"
 	}
 	);
