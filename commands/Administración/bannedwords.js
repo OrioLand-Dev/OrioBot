@@ -184,7 +184,7 @@ module.exports = class Ctegory extends Command {
       try {
         message.author
           .send(
-            "Oops... Ha ocurrido un eror con el comando ejecutado. Aunque ya he notificado a mis desarrolladores del problema, ¿te importaría ir a discord.gg/nodebot y dar más información?\n\nMuchísimas gracias rey <a:corazonmulticolor:836295982768586752>"
+            "Oops... Ha ocurrido un eror con el comando ejecutado. Aunque ya he notificado a mis desarrolladores del problema, ¿te importaría ir a https://discord.orioland.com y dar más información?\n\nMuchísimas gracias rey <:CorazonMC:844685525272363018>"
           )
           .catch(e);
       } catch (e) {}
