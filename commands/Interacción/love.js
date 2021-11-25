@@ -76,11 +76,11 @@ module.exports = class Love extends Command {
       const random = Math.floor(Math.random() * 100);
       let emoji = "";
       if (random < 50) {
-        emoji = "<a:331263527c8547b29dc5d4c1ccca311b:835912709605949541>";
+        emoji = "💩 ";
       } else if (random < 80) {
-        emoji = "<a:239cb599aefe44e38294b04b3d86aec5:835912603528069132> "; // Un pequeño Match.Floor para hacerlo random y no de el mismo resultado!
+        emoji = "<:CorazonMC:844685525272363018> "; // Un pequeño Match.Floor para hacerlo random y no de el mismo resultado!
       } else if (random < 101) {
-        emoji = "<a:pog:835912234201907220>";
+        emoji = "<:CorazonMCDorado:913392695471403078> ";
       }
       const { soyultro } = require("soyultro");
       let resp = [
