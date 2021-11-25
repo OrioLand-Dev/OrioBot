@@ -21,29 +21,11 @@ module.exports = class OrioLand extends Command {
   async run(client, message, args, prefix, lang, webhookClient, ipc) {
     try {
       if (!args[0]) {
-        // let web = new MessageButton()
-        //   .setStyle("url")
-        //   .setLabel(client.language.HELP[1])
-        //   .setEmoji("🌐")
-        //   .setURL("https://nodebot.xyz");
-
-        // let invite = new MessageButton()
-        //   .setStyle("url")
-        //   .setLabel(client.language.HELP[2])
-        //   .setEmoji("💌")
-        //   .setURL("https://invite.nodebot.xyz");
-
-        // let support = new MessageButton()
-        //   .setStyle("url")
-        //   .setLabel(client.language.HELP[3])
-        //   .setEmoji("🛠️")
-        //   .setURL("https://support.nodebot.xyz");
-        // let ButtonArray = [web, invite, support];
 
         const embed = new MessageEmbed()
           .setColor(process.env.EMBED_COLOR)
           .setDescription(
-            `\<:OrioLand:899005609079357471> ${client.language.HELP[5]} \`OrioBot\`, ${client.language.HELP[6]}`
+            `\<:OrioLand:899005609079357471> **OrioLand es una Network de Minecraft donde podeis jugar solos o con amigos.`
           )
           .addField(
             client.language.HELP[7],
@@ -56,7 +38,7 @@ module.exports = class OrioLand extends Command {
               `\<:arrowright:909525362176839720> \`${prefix}vote\` \<:arrowleft:909877479257280513> ${client.language.HELP[14]}(https://vote.nodebot.xyz 'Estamos esperando tu voto :)')`
           )
           .setThumbnail(message.author.avatarURL({ dynamic: true }))
-          .setTitle("✨" + client.language.HELP[13]);
+          .setTitle("✨ **ORIOLAND** ✨");
         //let user = client.users.cache.get(message.author.id)
 
         //message.lineReply(client.language.HELP[4]);
