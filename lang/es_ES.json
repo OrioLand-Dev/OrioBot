@@ -852,8 +852,8 @@
     "5": "Debes de insertar una imagen adjunta como logo para asignarle la propiedad de fondo transparente.",
     "6": "El límite está en 500 carácteres."
   },
-  "ERROREMBED": "Error <a:no:854740402531991573>",
-  "SUCCESSEMBED": "Éxito <a:tick:836295873091862568>",
+  "ERROREMBED": "Error <:off:910575823105458267>",
+  "SUCCESSEMBED": "Éxito <:on:910575823302590484>",
   "RESET": "No se está reproduciendo música.",
   "NOQUEUE": "La cola de reproducción ha acabado.",
   "SERVERINFO": {
