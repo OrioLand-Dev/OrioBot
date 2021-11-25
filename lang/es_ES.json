@@ -50,12 +50,12 @@
   },
   "CREATEINVITEPERMS": "Hey! El bot necesita los permisos de `CREATE_INSTANT_INVITE` para poder continuar, en caso de no tenerlos este comando no funcionará",
   "CREATEEMBED": {
-    "1": "**:x: Error |** ¡Debes definir el color del anuncio!",
-    "2": "**:x: Error |** ¡Debes definir el titulo del anuncio!",
-    "3": "**:x: Error |** ¡Debes definir la descripción del anuncio!",
-    "4": "**:x: Error |** El canal seleccionado no existe.",
-    "5": "**:x: Error |** No has insertado argumentos.",
-    "6": "**:x: Error |** Los colores disponibles son: "
+    "1": "**<:off:910575823105458267> Error |** ¡Debes definir el color del anuncio!",
+    "2": "**<:off:910575823105458267> Error |** ¡Debes definir el titulo del anuncio!",
+    "3": "**<:off:910575823105458267> Error |** ¡Debes definir la descripción del anuncio!",
+    "4": "**<:off:910575823105458267> Error |** El canal seleccionado no existe.",
+    "5": "**<:off:910575823105458267> Error |** No has insertado argumentos.",
+    "6": "**<:off:910575823105458267> Error |** Los colores disponibles son: "
   },
   "SHOWADMINS": "Lista de Administradores por Usuario",
   "ADDADMINCHAT": {
