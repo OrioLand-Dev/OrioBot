@@ -4,10 +4,10 @@ const Command = require("../../structures/Commandos.js");
 require("discord-reply");
 const { MessageEmbed } = require("discord.js");
 //const { MessageButton, MessageActionRow } = require("discord-buttons");
-module.exports = class Help extends Command {
+module.exports = class OrioLand extends Command {
   constructor(client) {
     super(client, {
-      name: "help",
+      name: "orioland",
       botpermissions: ["ADD_REACTIONS"],
       description: [
         "Show you information about me.",
