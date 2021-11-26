@@ -30,7 +30,7 @@ module.exports = class OrioLand extends Command {
           .addField(`**¿Como puedo entrar?,**
             Solo tienes que ir al apartado mutijugador del minecraft y añadir un servidor con la direccion **mc.orioland.com**.`
           )
-          .addField(**`¿El servidor es premium?`)
+          .addField(`**¿El servidor es premium?`)
           .addField(
             `No, podeis acceder con cuentas no premium a OrioLand 😁` +
               `\<:arrowright:909525362176839720> \`puedes usar ${prefix}vote\` \<:arrowleft:909877479257280513> o puedes hacer click aqui(https://new.orioland.com/vote 'Estamos esperando tu voto :)') para votar`
