@@ -25,17 +25,16 @@ module.exports = class OrioLand extends Command {
         const embed = new MessageEmbed()
           .setColor(process.env.EMBED_COLOR)
           .setDescription(
-            `\<:OrioLand:899005609079357471> **OrioLand es una Network de Minecraft donde podeis jugar solos o con amigos.`
+            `\<:OrioLand:899005609079357471> **OrioLand es una Network de Minecraft donde podeis jugar solos o con amigos.**`
           )
           .addField(
-            client.language.HELP[7],
-            `${client.language.HELP[8]} \`${message.guild.prefix}commands\`.`
+            **¿Como puedo entrar?,**
+            `Solo tienes que ir al apartado mutijugador del minecraft y añadir un servidor con la direccion **mc.orioland.com**.`
           )
-          .addField(client.language.HELP[9], client.language.HELP[10])
+          .addField(**¿El servidor es premium?)
           .addField(
-            client.language.HELP[11],
-            client.language.HELP[12] +
-              `\<:arrowright:909525362176839720> \`${prefix}vote\` \<:arrowleft:909877479257280513> ${client.language.HELP[14]}(https://vote.nodebot.xyz 'Estamos esperando tu voto :)')`
+            No, podeis acceder con cuentas no premium a OrioLand 😁 +
+              `\<:arrowright:909525362176839720> \`puedes usar ${prefix}vote\` \<:arrowleft:909877479257280513> o puedes hacer click aqui(https://new.orioland.com/vote 'Estamos esperando tu voto :)') para votar`
           )
           .setThumbnail(message.author.avatarURL({ dynamic: true }))
           .setTitle("✨ **ORIOLAND** ✨");
