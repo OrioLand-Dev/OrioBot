@@ -53,7 +53,7 @@ module.exports = class Help extends Command {
           .addField(
             client.language.HELP[11],
             client.language.HELP[12] +
-              `\<:arrowright:909525362176839720> \`${prefix}vote\` \<:arrowleft:909877479257280513> ${client.language.HELP[14]}(https://new.orioland.com 'Estamos esperando tu voto :)')`
+              `\<:arrowright:909525362176839720> \`${prefix}vote\` \<:arrowleft:909877479257280513> ${client.language.HELP[14]}(https://top.gg/bot/909510763083870218/vote 'Estamos esperando tu voto :)')`
           )
           .setThumbnail(message.author.avatarURL({ dynamic: true }))
           .setTitle("✨" + client.language.HELP[13]);
