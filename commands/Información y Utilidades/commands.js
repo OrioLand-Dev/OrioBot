@@ -310,7 +310,7 @@ module.exports = class Commands extends Command {
 				const embed = new Discord.MessageEmbed()
 					.setColor(process.env.EMBED_COLOR)
 					.setDescription(
-						`<a:828830816486293608:836296002893381682> ${client.language.COMMANDS[6]} \`${message.guild.prefix}help <${client.language.COMMANDS[7]}>\` ${client.language.COMMANDS[8]}.`
+						`❗ ${client.language.COMMANDS[6]} \`${message.guild.prefix}help <${client.language.COMMANDS[7]}>\` ${client.language.COMMANDS[8]}.`
 					)
 					.addField(client.language.COMMANDS[9], client.language.COMMANDS[10])
 					.setFooter(
